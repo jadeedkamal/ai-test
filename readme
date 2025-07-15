@@ -1,1 +1,11 @@
-This is an empty repo.
+# React Site
+
+This repository now contains a minimal React website.
+
+## Getting Started
+
+1. Install Node.js if it is not already installed.
+2. Run `npm start` to serve the site.
+3. Open the displayed local URL in your browser to view the app.
+
+The site source files are located in `public/` and `src/`.
