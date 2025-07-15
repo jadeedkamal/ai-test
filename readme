@@ -1,6 +1,6 @@
-# React Site
+# Doctor Scheduler
 
-This repository now contains a minimal React website.
+This repository now contains a small React site for creating doctor schedules.
 
 ## Getting Started
 
@@ -9,3 +9,10 @@ This repository now contains a minimal React website.
 3. Open the displayed local URL in your browser to view the app.
 
 The site source files are located in `public/` and `src/`.
+
+## Usage
+
+1. Ensure Node.js is installed.
+2. Run `npm start` and open the provided local URL.
+3. Enter a comma-separated list of doctors and choose a starting Monday.
+4. Press **Create Schedule** to see a four-week rotation where shifts are evenly distributed.
